@@ -22,7 +22,7 @@ Users would need to go to the [Github repository](#information) and download all
 # Code summary  
 | forms.py file | Type | description |
 |     ---       | ---- |    ----     |
-| [LoginForm(FlaskForm)](#loginformflaskform) | class | The form for logging in |
+| [LoginForm(FlaskForm)](###loginformflaskform) | class | The form for logging in |
 | [SignUpForm(FlaskForm)] | class | The form for signing up |
 | [flashCardForm(FlaskForm)] | class | The form for creating a flashcard |
 | [FlashShareForm(FlaskForm)] | class | The form for sharing a flashcard |
@@ -75,7 +75,7 @@ Users would need to go to the [Github repository](#information) and download all
 
 # Code functions and classes
 
-# LoginForm(FlaskForm)
+### LoginForm(FlaskForm)
     '''
     This class contain the form for the login page
     '''
