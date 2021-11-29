@@ -79,3 +79,4 @@ Users would need to go to the [Github repository](#information) and download all
     '''
     This class contain the form for the login page
     '''
+   
