@@ -22,7 +22,7 @@ Users would need to go to the [Github repository](#information) and download all
 # Code summary  
 | forms.py file | Type | description |
 |     ---       | ---- |    ----     |
-| [LoginForm](###loginForm) | class | The form for logging in |
+| [LoginForm](###loginform) | class | The form for logging in |
 | [SignUpForm(FlaskForm)] | class | The form for signing up |
 | [flashCardForm(FlaskForm)] | class | The form for creating a flashcard |
 | [FlashShareForm(FlaskForm)] | class | The form for sharing a flashcard |
